@@ -35,6 +35,3 @@ cursos: Contiene información de cursos (título, contenido, material didáctico
 grupos: Niveles principiante, intermedio y avanzado.
 
 robotics_kits: Kits de robótica asignados a cursos.
-
-Repositorio
-🔗 Enlace al repositorio en GitHub

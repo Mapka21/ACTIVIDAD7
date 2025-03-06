@@ -1,17 +1,41 @@
-# Sistema de Gestión para Escuela de Robótica
+# Sistema de Gestión para Escuela de Robótica 🚀
 
-## Descripción
-Proyecto Laravel para administrar grupos, usuarios, cursos y kits de robótica.
+## Descripción  
+Plataforma de gestión académica desarrollada para administrar grupos, cursos, usuarios y kits de robótica en una escuela especializada.  
+**Funcionalidades principales**:  
+- Registro de usuarios con roles (estudiante, docente, administrativo).  
+- Asignación de cursos a grupos.  
+- Gestión de kits de robótica vinculados a cursos.  
 
-## Diagrama ER
-![Diagrama ER](/docs/Grupo.png)
+## Diagrama ER  
+![Diagrama Entidad-Relación](Grupo.png)  
 
-## Requisitos
-- PHP 7.4+
-- MySQL 8.0+
+## Requisitos  
+- MySQL 8.0+ (para importar la base de datos).  
+- Navegador web (para visualizar la documentación).  
 
-## Instalación
-```bash
-composer install
-cp .env.example .env
-php artisan migrate --seed
+## Instalación  
+1. **Clona el repositorio**:  
+   ```bash
+   git clone https://github.com/Mapka21/ACTIVIDAD7.git
+2.**Importa la base de datos:**
+
+3.**Abre MySQL Workbench o phpMyAdmin.**
+
+4.**Ejecuta el archivo actividad7.sql ubicado en la carpeta database.**
+
+Estructura de la base de datos:
+
+Tablas:
+
+usuarios: Administra estudiantes, docentes y administrativos.
+
+cursos: Contiene información de cursos (título, contenido, material didáctico).
+
+grupos: Niveles principiante, intermedio y avanzado.
+
+robotics_kits: Kits de robótica asignados a cursos.
+
+Repositorio
+🔗 
+https://github.com/Mapka21/ACTIVIDAD7/blob/main/README.md

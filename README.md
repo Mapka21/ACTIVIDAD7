@@ -1,14 +1,14 @@
-# Sistema de Gestión para Escuela de Robótica 🚀
+# Sistema de Gestión para Escuela de Robótica 🛠️
 
 ## Descripción  
-Plataforma web desarrollada en Laravel 7 para administrar grupos de estudiantes, cursos y kits de robótica.  
+Plataforma para administrar grupos, cursos y kits de robótica. Desarrollada en Laravel 7.  
 
 ## Diagrama ER  
-![Diagrama ER](Grupo.png)  
+![Diagrama ER](/docs/Grupo.png)  
 
 ## Requisitos  
 - PHP 7.4+  
 - MySQL 8.0+  
-- Composer  
 
-## Estructura del Proyecto  
+## Repositorio  
+🔗 [Enlace al repositorio](https://github.com/Mapka21/ACTIVIDAD7)  

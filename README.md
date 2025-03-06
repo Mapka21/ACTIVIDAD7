@@ -35,3 +35,7 @@ cursos: Contiene información de cursos (título, contenido, material didáctico
 grupos: Niveles principiante, intermedio y avanzado.
 
 robotics_kits: Kits de robótica asignados a cursos.
+
+Repositorio
+🔗 
+https://github.com/Mapka21/ACTIVIDAD7/blob/main/README.md

@@ -4,7 +4,7 @@
 Plataforma web desarrollada en Laravel 7 para administrar grupos de estudiantes, cursos y kits de robótica.  
 
 ## Diagrama ER  
-![Diagrama ER](/docs/Grupo.png)  
+![Diagrama ER](Grupo.png)  
 
 ## Requisitos  
 - PHP 7.4+  

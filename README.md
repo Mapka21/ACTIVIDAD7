@@ -18,3 +18,23 @@ Plataforma de gestión académica desarrollada para administrar grupos, cursos, 
 1. **Clona el repositorio**:  
    ```bash
    git clone https://github.com/Mapka21/ACTIVIDAD7.git
+Importa la base de datos:
+
+Abre MySQL Workbench o phpMyAdmin.
+
+Ejecuta el archivo actividad7.sql ubicado en la carpeta database.
+
+Estructura de la base de datos:
+
+Tablas:
+
+usuarios: Administra estudiantes, docentes y administrativos.
+
+cursos: Contiene información de cursos (título, contenido, material didáctico).
+
+grupos: Niveles principiante, intermedio y avanzado.
+
+robotics_kits: Kits de robótica asignados a cursos.
+
+Repositorio
+🔗 Enlace al repositorio en GitHub

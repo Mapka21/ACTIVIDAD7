@@ -9,8 +9,9 @@ class RoboticsKitsTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
-    {
-        //
+    public function run() {
+        \App\Models\RoboticsKit::create(['nombre' => 'StarterKit']);
+        \App\Models\RoboticsKit::create(['nombre' => 'Educational Robotics Kit']);
+        \App\Models\RoboticsKit::create(['nombre' => 'Kit5']);
     }
 }

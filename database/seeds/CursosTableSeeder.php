@@ -9,8 +9,7 @@ class CursosTableSeeder extends Seeder
      *
      * @return void
      */
-    public function run()
-    {
-        //
+    public function run() {
+        \App\Models\Curso::factory(100)->create();
     }
 }

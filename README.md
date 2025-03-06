@@ -18,11 +18,11 @@ Plataforma de gestión académica desarrollada para administrar grupos, cursos, 
 1. **Clona el repositorio**:  
    ```bash
    git clone https://github.com/Mapka21/ACTIVIDAD7.git
-Importa la base de datos:
+2.**Importa la base de datos:**
 
-Abre MySQL Workbench o phpMyAdmin.
+3.**Abre MySQL Workbench o phpMyAdmin.**
 
-Ejecuta el archivo actividad7.sql ubicado en la carpeta database.
+4.**Ejecuta el archivo actividad7.sql ubicado en la carpeta database.**
 
 Estructura de la base de datos:
 
